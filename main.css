@@ -1,0 +1,13 @@
+.bg-dark {
+  background: #191919;
+}
+
+.bg-dark-1 {
+  background: #3F403C;
+}
+
+@media only screen and (min-width: 1224px) {
+  #quote-box {
+    width: 50vw !important;
+  }
+}
